@@ -7,6 +7,10 @@
     <groupId>zsolt.toth.web.app.scaffolding</groupId>
     <artifactId>bundle</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>core</module>
+        <module>service</module>
+    </modules>
 
     <packaging>pom</packaging>
 
