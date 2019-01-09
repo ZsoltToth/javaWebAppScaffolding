@@ -14,6 +14,12 @@
     <name>core</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
+    <description>
+        Core module has three tasks:
+            - it contains the model classes
+            - it is reliable for low level validation
+            - it defines service interfaces
+    </description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
