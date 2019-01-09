@@ -16,6 +16,11 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
+    <description>
+        This is the deployable application and the product of the development.
+        You can assemple all of the modules here.
+        The configuration files and the initialization of the service, DAO and controller objects should be placed here.
+    </description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
